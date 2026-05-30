@@ -142,9 +142,8 @@ Streamlit Deployment
 
 ### Accuracy Achieved
 
-**Accuracy: 98%+**
+**Accuracy: 96.86%**
 
-> Replace this value with your actual model accuracy after running evaluate.py.
 
 ---
 

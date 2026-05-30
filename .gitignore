@@ -1,3 +1,53 @@
+<<<<<<< HEAD
 __pycache__/
 *.pyc
 .ipynb_checkpoints/
+=======
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VS Code settings
+.vscode/
+
+# PyCharm settings
+.idea/
+
+# Streamlit cache
+.streamlit/
+
+# Model files (optional)
+# Uncomment if you don't want to upload trained models
+# models/*.pkl
+
+# Dataset files (optional)
+# Uncomment if dataset is large
+# dataset/*.csv
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+
+# Build files
+build/
+dist/
+*.egg-info/
+
+# Environment variables
+.env
+>>>>>>> 8627a7f96864400745d7dee1d7455f3e6ff6e3db

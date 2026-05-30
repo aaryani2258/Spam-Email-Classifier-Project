@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Spam Email Classifier
 
 ## Project Overview
@@ -224,7 +224,7 @@ cd Spam-Email-Classifier
 pip install -r requirements.txt
 ```
 
-<<<<<<< HEAD
+
 Train model:
 =======
 ---
@@ -238,7 +238,7 @@ Train model:
 python train_model.py
 ```
 
-<<<<<<< HEAD
+
 Run app:
 =======
 ### Evaluate the Model
@@ -260,7 +260,7 @@ python predict.py
 streamlit run app.py
 ```
 
-<<<<<<< HEAD
+
 ## Project Structure
 
 ```text
@@ -332,4 +332,4 @@ This project is developed for educational and internship purposes.
 ---
 
 ### ⭐ If you found this project useful, consider giving it a star on GitHub.
->>>>>>> 8627a7f96864400745d7dee1d7455f3e6ff6e3db
+8627a7f96864400745d7dee1d7455f3e6ff6e3db

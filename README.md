@@ -218,7 +218,7 @@ cd Spam-Email-Classifier
 ```
 
 ### Install Dependencies
->>>>>>> 8627a7f96864400745d7dee1d7455f3e6ff6e3db
+
 
 ```bash
 pip install -r requirements.txt
@@ -232,7 +232,7 @@ Train model:
 ## 🚀 How to Run
 
 ### Train the Model
->>>>>>> 8627a7f96864400745d7dee1d7455f3e6ff6e3db
+
 
 ```bash
 python train_model.py
@@ -254,7 +254,7 @@ python predict.py
 ```
 
 ### Launch Streamlit Application
->>>>>>> 8627a7f96864400745d7dee1d7455f3e6ff6e3db
+
 
 ```bash
 streamlit run app.py
@@ -332,4 +332,3 @@ This project is developed for educational and internship purposes.
 ---
 
 ### ⭐ If you found this project useful, consider giving it a star on GitHub.
-8627a7f96864400745d7dee1d7455f3e6ff6e3db

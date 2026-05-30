@@ -152,7 +152,7 @@ Streamlit Deployment
 
 ### Home Page
 
-Insert screenshot here.
+![Streamlit homepage](screenshots/Streamlit homepage.png)
 
 ```text
 screenshots/homepage.png
@@ -160,7 +160,7 @@ screenshots/homepage.png
 
 ### Spam Prediction
 
-Insert screenshot here.
+![Spam prediction example](screenshots/Spam prediction example.png)
 
 ```text
 screenshots/spam_prediction.png
@@ -168,7 +168,7 @@ screenshots/spam_prediction.png
 
 ### Not Spam Prediction
 
-Insert screenshot here.
+![Not-spam prediction example](screenshots/Not-spam prediction example.png)
 
 ```text
 screenshots/not_spam_prediction.png
@@ -176,7 +176,7 @@ screenshots/not_spam_prediction.png
 
 ### Accuracy Output
 
-Insert screenshot here.
+![Accuracy output](screenshots/Accuracy output.png)
 
 ```text
 screenshots/accuracy_output.png
@@ -184,12 +184,19 @@ screenshots/accuracy_output.png
 
 ### Confusion Matrix
 
-Insert screenshot here.
+![Confusion matrix output](screenshots/Confusion matrix.png)
 
 ```text
 screenshots/confusion_matrix.png
 ```
 
+### Classification Report
+
+![Classification report output](screenshots/Classification report.png)
+
+```text
+screenshots/classification_report_output.png
+```
 ---
 
 ## 📁 Project Structure
